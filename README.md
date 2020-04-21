@@ -20,7 +20,7 @@ categories:
 • Disparities by household wealth
 • Early Childhood Development
 • Under-Five Mortality Rankings
-
+.
 
 QUESTIONS:
 1. Identify at least 5 difference indicators and connect them to present a hypothesis.
